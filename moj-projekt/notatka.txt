@@ -1,0 +1,2 @@
+Pierwsza linia tekstu.
+Uczę się programowania w Pythonie.
